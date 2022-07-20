@@ -8,12 +8,6 @@
     "target_path": "device/google/gs101"
   },
   {
-    "repository": "device/google/gs101-sepolicy",
-    "target_path": "device/google/gs101-sepolicy",
-    "remote": "aosp",
-    "branch": "refs/tags/android-12.1.0_r11"
-  },
-  {
     "repository": "device/google/raviole-kernel",
     "target_path": "device/google/raviole-kernel",
     "remote": "aosp",
