@@ -15,7 +15,7 @@
   },
   {
     "repository": "android_kernel_google_raviole",
-    "target_path": "kernel/google/raviole"
+    "target_path": "kernel/google/raviole/private/gs-google"
   },
   {
     "repository": "android_vendor_google",
